@@ -1,0 +1,18 @@
+[10/Apr/2020:14:44:36] (ℹ️): WordPress Instance Info:
+[10/Apr/2020:14:44:36] (ℹ️): Home URL : http://localhost/wordpress
+[10/Apr/2020:14:44:36] (ℹ️): Site URL : http://localhost/wordpress
+[10/Apr/2020:14:44:36] (ℹ️): WordPress Version : 5.3.2
+[10/Apr/2020:14:44:36] (ℹ️): Onboarding Version : 1.8.2
+[10/Apr/2020:14:44:36] (ℹ️): Multisite : No
+[10/Apr/2020:14:44:36] (ℹ️): Server Info : Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.28
+[10/Apr/2020:14:44:36] (ℹ️): PHP Version : 7.2.28
+[10/Apr/2020:14:44:36] (ℹ️): HTTPS : No
+[10/Apr/2020:14:44:36] (ℹ️): PHP Max Execution Time : 120
+[10/Apr/2020:14:44:36] (ℹ️): PHP Max Input Vars : 1000
+[10/Apr/2020:14:44:36] (ℹ️): Max Upload Size : 41943040
+[10/Apr/2020:14:44:36] (ℹ️): Plugins:
+[10/Apr/2020:14:44:36] (ℹ️): [PLUGIN] Elementor : v2.9.7 (Elementor.com)
+[10/Apr/2020:14:44:36] (ℹ️): [PLUGIN] Facebook for WooCommerce : v1.10.2 (Facebook)
+[10/Apr/2020:14:44:36] (ℹ️): [PLUGIN] Mailchimp for WooCommerce : v2.3.6 (Mailchimp)
+[10/Apr/2020:14:44:36] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.6 (Themeisle)
+[10/Apr/2020:14:44:36] (ℹ️): [PLUGIN] WooCommerce : v4.0.1 (Automattic)
